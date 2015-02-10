@@ -11,7 +11,7 @@ import org.springframework.stereotype.Controller;
  * This config class will trigger Spring @annotation scanning and auto configure Spring context.
  *
  * @author Vipul Shivnani
- * @since 1.0
+ * @version 6.0
  */
  
 @Controller
